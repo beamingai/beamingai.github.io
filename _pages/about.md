@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Welcome to BEAMING's website"
-excerpt: "About us"
+# excerpt: "About us"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # About us
-We are the BEAMING team in the course STOR 565: Machine Learning (Spring 2024) at UNC-Chapel Hill, instructed by (Prof. Zhengwu Zhang)[https://zhengwu.github.io/]. Our team consists of 5 graduate students:
+We are the BEAMING team in STOR 565: Machine Learning (Spring 2024) course at UNC-Chapel Hill, instructed by [Prof. Zhengwu Zhang](https://zhengwu.github.io/). Our team consists of 5 graduate students:
   - Ishmael Benjamin Torres Aguilar
   - Izzet Egemen Elver
   - Dilay Ozkan

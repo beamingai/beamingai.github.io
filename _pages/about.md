@@ -15,4 +15,5 @@ We are the BEAMING team in the course STOR 565: Machine Learning (Spring 2024) a
   - Dilay Ozkan
   - Malavika Mampally
   - Nghia Nguyen
+
 The name BEAMING is an abbreviation for **_B_**enjamin **_E_**gemen Dil**_a_**y **_M_**alav**_i_**ka **_Ng_**hia. 
